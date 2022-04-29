@@ -2,7 +2,7 @@
 
 ![alt text](https://github.com/willianmenegatt/Projeto_Rossmann/blob/main/img.jpg?raw=true)
 
-A Rossmann é uma empresa farmacêutica e possui mais de 1000 lojas espalhadas pela Europa. Todos os dias, o gerente de cada loja contabiliza suas vendas e tem o papel de enviar em um prazo determinado seus resultados. As vendas podem ser impactadas por diversos fatores, como promoções, feriados, sazonalidade e localidade.
+A Rossmann é uma empresa farmacêutica e possui mais de 1000 lojas espalhadas pela Europa. Todos os dias, o gerente de cada loja contabiliza suas vendas e tem o papel de enviar em um prazo determinado, seus resultados. As vendas podem ser impactadas por diversos fatores, como promoções, feriados, sazonalidade e localidade.
 Outro papel dos gerentes é tentar prever as vendas de suas lojas nas próximas 6 semanas por questões orçamentárias.
 
 As bases de dados foram retiradas do site kaggle: https://www.kaggle.com/c/rossmann-store-sales
